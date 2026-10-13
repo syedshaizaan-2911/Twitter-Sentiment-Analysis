@@ -1,0 +1,16 @@
+Tweet,Sentiment,Polarity
+I love this product. It is amazing!,Positive,0.625
+Today is a wonderful and happy day.,Positive,0.9
+The service was excellent.,Positive,1.0
+I am very pleased with the results.,Positive,0.65
+This is a fantastic experience.,Positive,0.4
+I hate this product. It is terrible.,Negative,-0.9
+The service was awful.,Negative,-1.0
+I am unhappy with this experience.,Negative,-0.6
+This is the worst day ever.,Negative,-1.0
+The quality is horrible.,Negative,-1.0
+The meeting starts at ten o'clock.,Neutral,0.0
+I went to the store today.,Neutral,0.0
+The package arrived this morning.,Neutral,0.0
+I am reading a book.,Neutral,0.0
+The event is scheduled for Monday.,Neutral,0.0
